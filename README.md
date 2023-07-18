@@ -38,3 +38,39 @@ g++ simplest_video_play_sdl2.cpp -lSDL2 -lpthread -lm -ldl
 g++ simplest_ffmpeg_player_su.cpp  -lSDL2 -lpthread -lm -ldl -L  ffmpeg/lib/  -l avformat -l avcodec -l avutil -l swscale  -Wl,-rpath=ffmpeg/lib/ -I ffmpeg/include/
 ```
 
+
+
+
+
+# 总结
+
+https://www.cnblogs.com/codingbigdog/p/17564050.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
